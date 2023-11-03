@@ -1,0 +1,29 @@
+_core:
+  default_config_hash: 71vTnk5szuOQRTsOR-S5bjCzPvkxtx_eVGMqYa_mcqc
+schemas:
+  bootstrap: 8000
+  customtheme: 8000
+favicon:
+  mimetype: image/vnd.microsoft.icon
+  path: ''
+  url: /themes/custom/customtheme/favicon.ico
+  use_default: 1
+features:
+  comment_user_picture: 1
+  comment_user_verification: 1
+  favicon: 1
+  node_user_picture: 1
+logo:
+  path: ''
+  url: ''
+  use_default: 1
+table_responsive: '-1'
+cdn_theme: bootstrap
+cdn_cache_ttl_versions: '0'
+cdn_cache_ttl_themes: '0'
+apply: Apply
+reset_http_request_cache: ''
+table: ''
+cdn_provider: jsdelivr
+cdn_cache_ttl_assets: '0'
+cdn_cache_ttl_library: '0'
