@@ -1,16 +1,16 @@
 uuid: 4687653b-3a54-4919-8566-ef649e4a4ea2
-langcode: en
+langcode: es
 status: true
 dependencies: {  }
 _core:
   default_config_hash: hwJoqnxqBS0fPM3s6FccZ2bWaq9LneRYLzFk-wlJWjs
 id: default
 label: Default
+traits: {  }
+locked: false
 description: ''
 variationType: default
 variationTypes:
   - default
 multipleVariations: true
 injectVariationFields: true
-traits: {  }
-locked: false

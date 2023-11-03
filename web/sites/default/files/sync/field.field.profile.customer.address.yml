@@ -1,5 +1,5 @@
 uuid: 5b06065f-772f-42ea-ba67-c736cbc74682
-langcode: en
+langcode: es
 status: true
 dependencies:
   config:
@@ -21,6 +21,8 @@ default_value: {  }
 default_value_callback: ''
 settings:
   available_countries: {  }
+  langcode_override: ''
+  field_overrides: {  }
   fields:
     administrativeArea: administrativeArea
     locality: locality
@@ -33,6 +35,4 @@ settings:
     givenName: givenName
     additionalName: additionalName
     familyName: familyName
-  langcode_override: ''
-  field_overrides: {  }
 field_type: address
